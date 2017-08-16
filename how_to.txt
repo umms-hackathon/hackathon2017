@@ -10,7 +10,10 @@ git checkout -b 2016-08-19_your_new_changes
 git add .
 git commit
 
-5. Create a pull request to merge with the central repository in github site.
+5. Push your changes 
+git push origin 2016-08-19_your_new_changes
+
+6. Create a pull request to merge with the central repository in github site.
 
 
 
